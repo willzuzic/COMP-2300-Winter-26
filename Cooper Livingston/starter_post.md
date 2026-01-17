@@ -3,8 +3,8 @@ title: "Week 1 - Cooper Livingston"
 date: 2026-01-16
 publish: true
 tags:
-  - student
-  - comp-2300
+  - notes
+  - reflection
 ---
 
 # Week 1 - Cooper Livingston

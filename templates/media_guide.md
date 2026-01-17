@@ -4,7 +4,7 @@ date: 2026-01-16
 publish: false
 tags:
   - guide
-  - comp-2300
+  - media
 ---
 
 # Media embed guide
