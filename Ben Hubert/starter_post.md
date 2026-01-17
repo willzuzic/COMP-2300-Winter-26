@@ -1,6 +1,8 @@
 ---
+
 title: "Week 1 - Ben Hubert"
 date: 2026-01-16
+publish: false
 tags:
   - student
   - comp-2300

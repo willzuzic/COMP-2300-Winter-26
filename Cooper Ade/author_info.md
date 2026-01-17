@@ -1,6 +1,8 @@
 ---
+
 title: "Cooper Ade"
 date: 2026-01-16
+publish: false
 tags:
   - author
   - comp-2300
