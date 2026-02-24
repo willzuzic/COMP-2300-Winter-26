@@ -23,6 +23,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 Video source: https://www.youtube.com/watch?v=LXb3EKWsInQ
 
-## Next up
+## MORE THINGS!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

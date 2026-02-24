@@ -1,7 +1,7 @@
 ---
 title: "Alex Stevens"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
   - profile
   - contributor

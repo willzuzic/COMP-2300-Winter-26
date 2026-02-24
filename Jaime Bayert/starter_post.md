@@ -1,30 +1,28 @@
 ---
-
-title: "Gretchen Bayert"
+title: "Week 1 - Jaime Bayert"
 date: 2026-01-16
-publish: false
+publish: true
 tags:
-  - profile
-  - contributor
+  - notes
+  - reflection
 ---
 
-# Gretchen Bayert
-
-## About
+# Week 1 - Jaime Bayert
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Focus
+## This week
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-## Media sample
+## Media check
 
 ![Moody hallway scene from a stock photo](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80)
 
-Photo credit: https://unsplash.com/photos/2s3mZ3Qgm2M
+![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
 
-## Links
+Video source: https://www.youtube.com/watch?v=LXb3EKWsInQ
 
-- Starter post: starter_post.md
-- Video link: https://www.youtube.com/watch?v=LXb3EKWsInQ
+## Next up
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
